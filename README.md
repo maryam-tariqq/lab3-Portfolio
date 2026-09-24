@@ -11,7 +11,7 @@ A multi-page personal portfolio website built with plain **HTML** and **CSS** fo
 
 `gallery.html`: Image gallery (5 images) arranged with float and clear. 
 
-`contact.html`: Contact details and message form 
+`contact.html`: Contact details 
 
 ## Project structure
 ```
