@@ -1,9 +1,6 @@
 # Maryam Tariq - Personal Portfolio
 
-A multi-page personal portfolio website built with plain **HTML** and **CSS** for
-CS344: Web Engineering (Lab 3: HTML Advanced - Personal Portfolio II).
-
-**Live site:** https://YOUR-USERNAME.github.io/portfolio/
+A multi-page personal portfolio website built with plain **HTML** and **CSS** for a lab in my Web Engineering course
 
 ## Pages
 | Page | Description |
@@ -33,13 +30,3 @@ portfolio/
 │   └── photo5.jpeg
 └── README.md
 ```
-
-## Features
-- One external stylesheet (`css/style.css`) shared by every page
-- Consistent fonts, colours, borders and spacing
-- Horizontal navigation menu built with `float`
-- Side-by-side layouts using `float`, with `clear` / clearfix to fix layout collapse
-- No JavaScript and no CSS frameworks
-
-## Run locally
-Open `index.html` in any modern browser.
